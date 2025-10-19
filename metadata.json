@@ -1,0 +1,5 @@
+{
+  "name": "Log Classification Analysis Tool",
+  "description": "An intelligent tool to upload, analyze, and classify log files as 'Malicious' or 'Benign' using the Gemini API. Features include detailed prediction tables, visual analytics, and a history of past analyses.",
+  "requestFramePermissions": []
+}

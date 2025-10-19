@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# CyberCell — AI-Powered Cyber Threat Detection Dashboard
 
-# Run and deploy your AI Studio app
+This project is developed for the Cybercell Hackathon to demonstrate a system that detects and classifies cyber threats using AI-assisted analysis.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1BSuUPvLo1tLqxOwr3I9ujLGkOh5R1SQE
+## 🚀 Features
+- Simulates both **Red Team (attack)** and **Blue Team (defense)** scenarios  
+- Detects and classifies suspicious network activities  
+- Displays threat levels using a dashboard interface  
+- Integrates AI for log analysis and anomaly detection  
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🧠 Tech Stack
+- **Frontend:** React (Node.js)
+- **Backend / AI:** Gemini API
+- **Security Simulation:** Python scripts for log + attack event generation
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 💻 Run Locally
+
+**Prerequisite:**  
+- [Node.js](https://nodejs.org/) installed  
+- A valid **Gemini API Key**
+
+**Steps:**
+
+Run in AI studio: https://ai.studio/apps/drive/1BSuUPvLo1tLqxOwr3I9ujLGkOh5R1SQE
